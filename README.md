@@ -53,7 +53,7 @@ These visuals are reflected in its own dashboard and the first page in the Story
 
 Visuals were put together to show the number of rentals by month and the average rental time by month.  This was further split to compare member riding habits vs. casual member habits.  Perhaps not surprisingly, the  number of rentals for each month dip in the coldest months but peak in the warmer to hotter months. 
 
-The lowest number of rentals, including rentals by members and casual users, occurred in February.  However, February has a substantially higher average rental time by casual users (47.04 mins).  Other visuals were put together to try to explain this phenomenon, but the source could not be identified.
+The lowest number of rentals, including rentals by members and casual users, occurred in February.  However, February has a substantially higher average rental time by casual users (47.04 mins) at stations with the lower rental time.  Other visuals were put together to try to explain this phenomenon, but the source is not available that could explain this.
 
 These visuals are reflected in its own dashboard and the second page in the Story.
 
@@ -63,6 +63,6 @@ The only way to explain these phenomenon is with data that is outside of the dat
 
 # Code and Visual Repositories
 
-#### [GitHub](https://github.com/nladkins/tableau-challenge)
+#### [GitHub](https://github.com/nladkins/tableau)
 
 #### [Tableau](https://prod-useast-b.online.tableau.com/#/site/normanadkins/workbooks/379153)
